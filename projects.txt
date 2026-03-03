@@ -1,0 +1,27 @@
+=== Project Entry ===
+Project Name : Call112
+Team Leader : Kaan
+Team Size : 4–6
+Project Type : Mobile
+Start Date : 03/03/2026
+Record Time : 2026-03-03T22:09:52.916642300
+====================
+
+=== Project Entry ===
+Project Name : PotatoFarmerGame
+Team Leader : Lale
+Team Size : 1–3
+Project Type : Desktop
+Start Date : 03/03/2026
+Record Time : 2026-03-03T22:10:28.727987500
+====================
+
+=== Project Entry ===
+Project Name : Martı
+Team Leader : Muzaffer
+Team Size : 10+
+Project Type : Mobile
+Start Date : 03/03/2026
+Record Time : 2026-03-03T22:10:48.455468500
+====================
+
